@@ -20,4 +20,6 @@ RUN npm install
 # Giving file's permmisions
 RUN chmod +x entry-point.sh
 
+# THIS IS THE CHANGE FOR GIT
+
 ENTRYPOINT [ "sh" ,"./entry-point.sh" ]
