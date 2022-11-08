@@ -12,9 +12,4 @@ https://cowsay-node.herokuapp.com/
 
 ## To run localy
 
-(1) Make sure you have node & npm installed
-(2) Install all dependencies using "npm install"
-(3) Set PORT environment variable (if not set, 8080 will be used)
-(4) npm start
-
-Enjoy it. ^_____^ ..
+Instructions are shown inside buildcowsay.Dockerfile
